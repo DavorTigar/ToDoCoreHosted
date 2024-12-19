@@ -1,0 +1,12 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "ProjectPath": "C:\\Users\\DAVOR\\source\\repos\\ToDoCoreHosted\\ToDoCoreHosted\\Client",
+   "Tables": [
+      {
+         "Name": "[dbo].[Songs]",
+         "ObjectType": 0
+      }
+   ]
+}
